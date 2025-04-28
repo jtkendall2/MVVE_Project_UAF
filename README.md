@@ -4,14 +4,14 @@
 The MVVE (Microgrid Variable Voltage Emulator) project aims to create a system for emulating microgrid voltage profiles using a variac (variable transformer) controlled by software. This Python-based tool is designed to assist with the testing and validation of microgrid-connected equipment under variable voltage conditions.
 
 ## Current Status
-    - [x] Functional User Interface
-    - [x] Control software for simulated data
-    - [ ] Integration with physical hardware
+- [x] Functional User Interface
+- [x] Control software for simulated data
+- [ ] Integration with physical hardware
 
 ## Installation
 
 1. Clone repository
-2. Install required Python 
+2. Install required Python libraries
 ``` bash
 pip install -r requirements.txt
 ```
